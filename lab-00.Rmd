@@ -47,7 +47,7 @@ p1
 ```
 
 
-*Remove this text (including the stars), and add your answer for Exercise 18 here.*
+Favourite number of the all the team (individually). Colour coded with their favourite colour
 
 ### Exercises 19
 
@@ -59,7 +59,7 @@ p1 + labs(x = "Username",
           title = "FaveNumsOfTeam")
 ```
 
-*Remove this text (including the stars), and add your answer for Exercise 19 here.*
+Modify axis, legend, and plot labels
 
 ### Exercise 20
 
